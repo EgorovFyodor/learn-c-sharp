@@ -1,0 +1,15 @@
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\bin\Debug\net8.0\Inheritance-02.exe
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\bin\Debug\net8.0\Inheritance-02.deps.json
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\bin\Debug\net8.0\Inheritance-02.runtimeconfig.json
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\bin\Debug\net8.0\Inheritance-02.dll
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\bin\Debug\net8.0\Inheritance-02.pdb
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.AssemblyInfoInputs.cache
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.AssemblyInfo.cs
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.csproj.CoreCompileInputs.cache
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.sourcelink.json
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.dll
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\refint\Inheritance-02.dll
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.pdb
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\Inheritance-02.genruntimeconfig.cache
+C:\Users\User\c-sharp-project\Inheritance-02\Inheritance-02\obj\Debug\net8.0\ref\Inheritance-02.dll
